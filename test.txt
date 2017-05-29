@@ -1,2 +1,3 @@
 Simple test text.
+Oleleleee konflict
 Create a conflict.
